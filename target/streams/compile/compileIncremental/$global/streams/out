@@ -1,0 +1,58 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/knoldus/assignment/Assignment_cassandra/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1f2b95c1, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/local/jdk/jre/lib/resources.jar:/usr/local/jdk/jre/lib/rt.jar:/usr/local/jdk/jre/lib/sunrsasign.jar:/usr/local/jdk/jre/lib/jsse.jar:/usr/local/jdk/jre/lib/jce.jar:/usr/local/jdk/jre/lib/charsets.jar:/usr/local/jdk/jre/lib/jfr.jar:/usr/local/jdk/jre/classes:/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/assignment/Assignment_cassandra/target/scala-2.12/classes:/home/knoldus/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/bundles/cassandra-driver-core-2.1.10.3.jar:/home/knoldus/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.33.Final.jar:/home/knoldus/.ivy2/cache/com.google.guava/guava/bundles/guava-14.0.1.jar:/home/knoldus/.ivy2/cache/com.codahale.metrics/metrics-core/bundles/metrics-core-3.0.2.jar:/home/knoldus/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jnr-ffi/jars/jnr-ffi-2.0.7.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.10.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.10-native.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm/jars/asm-5.0.3.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm-commons/jars/asm-commons-5.0.3.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm-tree/jars/asm-tree-5.0.3.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm-analysis/jars/asm-analysis-5.0.3.jar:/home/knoldus/.ivy2/cache/org.ow2.asm/asm-util/jars/asm-util-5.0.3.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jnr-x86asm/jars/jnr-x86asm-1.0.2.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jnr-posix/jars/jnr-posix-3.0.27.jar:/home/knoldus/.ivy2/cache/com.github.jnr/jnr-constants/jars/jnr-constants-0.9.0.jar:/home/knoldus/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 15.638943277 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, result, synchronized, $isInstanceOf, obj, main, notifyAll, isInstanceOf, ==, clone, $init$, Main, toString, args, !=, getClass, ne, eq, log, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala by /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala, /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Connection.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, Connection, notifyAll, isInstanceOf, cluster, ==, clone, $init$, session, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala: Set(Connection, session, getClass)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala: Set(getClass)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/knoldus/assignment/Assignment_cassandra/src/main/scala/DatabaseHandling.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, insertIntoUsers, asInstanceOf, synchronized, $isInstanceOf, videoByUserIdAndYear, notifyAll, userByEmail, isInstanceOf, cluster, createTable, videoByName, <init>, ==, clone, $init$, session, toString, !=, getClass, videoByUserIdAndYearDesc, ne, insertIntoVideos, DatabaseHandling, eq, log, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/knoldus/assignment/Assignment_cassandra/src/main/scala/Main.scala: Set(insertIntoUsers, videoByUserIdAndYear, userByEmail, createTable, videoByName, <init>, getClass, videoByUserIdAndYearDesc, insertIntoVideos, DatabaseHandling, log)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

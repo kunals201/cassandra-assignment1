@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cassandra_assignment.iml" filepath="$PROJECT_DIR$/.idea/modules/cassandra_assignment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cassandra_assignment-build.iml" filepath="$PROJECT_DIR$/.idea/modules/cassandra_assignment-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/assignment_cassandra.iml" filepath="$PROJECT_DIR$/.idea/modules/assignment_cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/assignment_cassandra-build.iml" filepath="$PROJECT_DIR$/.idea/modules/assignment_cassandra-build.iml" />
     </modules>
   </component>
 </project>
