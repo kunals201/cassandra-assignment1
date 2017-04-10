@@ -24,26 +24,26 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SBT: com.codahale.metrics:metrics-core:3.0.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: log4j:log4j:1.2.17:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.datastax.cassandra:cassandra-driver-core:2.1.10.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.jnr:jffi:1.2.10:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.jnr:jffi:1.2.10:native:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.jnr:jnr-constants:0.9.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.jnr:jnr-ffi:2.0.7:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.jnr:jnr-posix:3.0.27:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.github.jnr:jnr-x86asm:1.0.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.google.guava:guava:14.0.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.netty:netty-buffer:4.0.33.Final:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.netty:netty-codec:4.0.33.Final:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.netty:netty-common:4.0.33.Final:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.netty:netty-handler:4.0.33.Final:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.netty:netty-transport:4.0.33.Final:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.ow2.asm:asm:5.0.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.ow2.asm:asm-analysis:5.0.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.ow2.asm:asm-commons:5.0.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.ow2.asm:asm-tree:5.0.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.ow2.asm:asm-util:5.0.3:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.12.1:jar" level="project" />
     <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.5:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.12.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-util:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-tree:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-commons:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm-analysis:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.ow2.asm:asm:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-transport:4.0.33.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-handler:4.0.33.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-common:4.0.33.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-codec:4.0.33.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.netty:netty-buffer:4.0.33.Final:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.google.guava:guava:14.0.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.jnr:jnr-x86asm:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.jnr:jnr-posix:3.0.27:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.jnr:jnr-ffi:2.0.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.jnr:jnr-constants:0.9.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.jnr:jffi:1.2.10:native:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.github.jnr:jffi:1.2.10:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.datastax.cassandra:cassandra-driver-core:2.1.10.3:jar" level="project" />
+    <orderEntry type="library" name="SBT: log4j:log4j:1.2.17:jar" level="project" />
   </component>
 </module>
